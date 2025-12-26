@@ -1,7 +1,7 @@
 
   # Quiz Game UI Design
 
-  This is a code bundle for Quiz Game UI Design. The original project is available at https://www.figma.com/design/NyCSZXFjQsbWz0HIWVyI1z/Quiz-Game-UI-Design.
+  This is a code bundle for Quiz Game UI Design. [The original project is available at https://www.figma.com/design/NyCSZXFjQsbWz0HIWVyI1z/Quiz-Game-UI-Design.](https://plank-thank-70057617.figma.site)
 
   ## Running the code
 
